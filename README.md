@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on app development using flutter.
+I am a third year student persuing B-Tech in computer science and engineering (Core Branch). I am very passionate about learning new things and explore more technological aspects. My areas of interest are C++ and topics of app development. I am very keen to learn new areas of coding, also compatible with Data Structure and Algorithm.
 
 
 ## 🌐 Socials:
