@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a third year student persuing B-Tech in computer science and engineering (Core Branch). I am very passionate about learning new things and explore more technological aspects. My areas of interest are C++ and topics of app development. I am very keen to learn new areas of coding, also compatible with Data Structure and Algorithm.
+🔹 Final Year B.Tech Student at Vellore Institute of Technology, Bhopal
+🔹 Passionate Mobile App Developer specializing in Flutter
+🔹 Experienced in Front End Web Development
+🔹 Proficient in C++, Java, and Python with a strong grasp on Data Structures & Algorithms
+🔹 Always exploring innovative solutions to make the world a more efficient and harmonious place
+🔹 Open to opportunities where I can leverage my tech skills and problem-solving mindset to drive impactful results.
 
 
 ## 🌐 Socials:
