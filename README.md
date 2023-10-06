@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔹 Final Year B.Tech Student at Vellore Institute of Technology, Bhopal<br>
-🔹 Passionate Mobile App Developer specializing in Flutter
-🔹 Experienced in Front End Web Development
-🔹 Proficient in C++, Java, and Python with a strong grasp on Data Structures & Algorithms
-🔹 Always exploring innovative solutions to make the world a more efficient and harmonious place
-🔹 Open to opportunities where I can leverage my tech skills and problem-solving mindset to drive impactful results.
+🔹 Passionate Mobile App Developer specializing in Flutter<br>
+🔹 Experienced in Front End Web Development<br>
+🔹 Proficient in C++, Java, and Python with a strong grasp on Data Structures & Algorithms<br>
+🔹 Always exploring innovative solutions to make the world a more efficient and harmonious place<br>
+🔹 Open to opportunities where I can leverage my tech skills and problem-solving mindset to drive impactful results.<br>
 
 
 ## 🌐 Socials:
