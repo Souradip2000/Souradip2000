@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔹 Final Year B.Tech Student at Vellore Institute of Technology, Bhopal ---
+🔹 Final Year B.Tech Student at Vellore Institute of Technology, Bhopal<br>
 🔹 Passionate Mobile App Developer specializing in Flutter
 🔹 Experienced in Front End Web Development
 🔹 Proficient in C++, Java, and Python with a strong grasp on Data Structures & Algorithms
