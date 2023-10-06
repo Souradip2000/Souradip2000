@@ -1,3 +1,4 @@
+<center>
 # 💫 About Me:
 🔹 Final Year B.Tech Student at Vellore Institute of Technology, Bhopal<br>
 🔹 Passionate Mobile App Developer specializing in Flutter<br>
@@ -18,7 +19,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_souradip_ghosh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souradip-ghosh-/) 
-
+</center>
 
 [![](https://visitcount.itsvg.in/api?id=Souradip2000&icon=0&color=0)](https://visitcount.itsvg.in)
 
